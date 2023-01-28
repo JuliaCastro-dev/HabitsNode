@@ -25,7 +25,7 @@ npm run dev
 👤 **Julia Castro**
 
 * Github: [@JuliaCastro-dev](https://github.com/JuliaCastro-dev)
-* LinkedIn: [@Julia Castro Nóbrega](https://linkedin.com/in/Julia Castro Nóbrega)
+* LinkedIn: [@Julia Castro Nóbrega](www.linkedin.com/in/julia-castro-nóbrega)
 
 ## Show your support
 
